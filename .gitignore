@@ -1,0 +1,22 @@
+# Configuración local con credenciales reales
+includes/conexion.local.php
+.env
+
+# Dependencias
+/vendor/
+
+# Logs y archivos temporales
+*.log
+*.tmp
+*.bak
+
+# Editores / IDEs
+.vscode/
+.idea/
+*.sublime-*
+.claude/
+
+# Sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
