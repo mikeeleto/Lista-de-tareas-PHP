@@ -20,4 +20,6 @@ Una aplicación web simple para gestionar tareas, construida con PHP y MySQL.
 4. Abre `localhost/lista-de-tareas-php/lista.php`
 
 ## Capturas
-(aquí puedes poner una imagen de tu proyecto funcionando)
+
+<img width="1292" height="835" alt="image" src="https://github.com/user-attachments/assets/8825a042-4d3e-4bb9-a416-74b3774e989e" />
+<img width="875" height="597" alt="image" src="https://github.com/user-attachments/assets/f39c0762-fb99-4926-9fd1-e172fe3a920c" />
